@@ -8,3 +8,98 @@ MST | Minimize Cost of Connecting Servers
 Shortest Distance between Robots
 
 Sorting problem | Highest Profit
+
+leetcode 240 138 240 572
+
+substring with k distinct Character
+
+子树找平均最大，不是第二层找最大
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OA1
+老7道改错题：
+Print Pattern 变量量ch++ -> print++
+
+Even odd pattern 加括号
+
+Manchester == -> !=
+
+Reverse Array += -> -=
+
+Sort Array > -> <
+
+Get Digit sum parity result %2 == 0 -> !=
+
+Distinct Element Count f==1 -> f==0
+
+1 sort array
+
+2 奇数偶数
+
+3 check palindromic num->temp
+
+4 distinct element count
+
+5 digitalSumPairy if (result % 2 !=0)->if (result % 2 ==0)
+
+6 countproduct for loop ⾥里里⾯面限制条件错了了改下就好
+
+7 找出出现k次的元素
+
+ArrayOperation
+
+CheckGrade
+
+occurence
+
+replaceValues
+
+countOccurrence
+返回Value在Array⾥面出现的次数
+while loop⾥面缺少i++
+
+printPattern（出现了两次）
+for loop缺少 {}
+
+selectionSort
+<>改⼀一下
+
+reverseArray
+把len++改成len–
+
+CheckGrade
+两个else if⾥里里的‘||’改为‘&&’
+
+countDigits
+加⼀句temp=num; 然后把return⾥所有的num改为temp, 这样num就不会被改变了
+
+Min Abs Diff Between 2 Elements
+
+
+
+
+
+
+
