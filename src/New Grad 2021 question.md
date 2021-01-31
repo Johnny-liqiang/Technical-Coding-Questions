@@ -1,4 +1,5 @@
-OA2
+# OA2
+## New added
 BROKEN, borrower/lender problem?
 
 Maximum Units
@@ -14,6 +15,8 @@ leetcode 240 138 240 572
 substring with k distinct Character
 
 子树找平均最大，不是第二层找最大
+
+## FAQ with LC numbers 
 
 Two Sum (#1)
 
@@ -95,7 +98,7 @@ Diameter of Binary Tree (#543)
 
 Reorganize String (#767)
 
-Fill the truck 
+## Experienced with link https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
 
 HashMap implementation
 
