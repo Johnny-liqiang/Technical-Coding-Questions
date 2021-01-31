@@ -181,6 +181,7 @@ Count Teams
 Copy List with Random Pointer
 
 ## [Aonecode](https://aonecode.com/amazon-online-assessment-questions)
+## [OA2题库](https://algo.monster/problems/nearest_cities)
 
 
 
