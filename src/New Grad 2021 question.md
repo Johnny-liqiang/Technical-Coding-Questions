@@ -158,15 +158,13 @@ Cut off Rank
 
 Disk Space Analysis
 
-Nearest City
+### Nearest City 
 
 Subtree with Maximum Average
 
 ### Break a Palindrome leetcode: 1328
 
-Smallest Negative Balance
-
-Find The Highest Profit
+### Smallest Negative Balance| Find The Highest Profit
 
 Ways to Split String Into Prime Numbers
 
