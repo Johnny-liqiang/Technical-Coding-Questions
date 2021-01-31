@@ -6,10 +6,6 @@ Maximum Units
 
 MST | Minimize Cost of Connecting Servers
 
-Shortest Distance between Robots
-
-Sorting problem | Highest Profit
-
 leetcode 240 138 240 572
 
 substring with k distinct Character
@@ -98,7 +94,7 @@ Diameter of Binary Tree (#543)
 
 Reorganize String (#767)
 
-## Experienced with link https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+## 2020 Experienced with [link](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) 
 
 HashMap implementation
 
@@ -156,7 +152,7 @@ Gifting Groups
 
 Cut off Rank
 
-# New Grad
+# 2020 New Grad with [link](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) 
 
 Fill the truck 
 
@@ -172,9 +168,19 @@ Smallest Negative Balance
 
 Find The Highest Profit
 
+Ways to Split String Into Prime Numbers
 
+Fetch Items to Display
 
+Min Distance Between Robots
 
+Power Grid
+
+Count Teams
+
+Copy List with Random Pointer
+
+# Aonecode:https://aonecode.com/amazon-online-assessment-questions
 
 
 
