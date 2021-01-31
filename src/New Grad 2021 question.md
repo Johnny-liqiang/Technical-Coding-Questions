@@ -167,10 +167,10 @@ Break a Palindrome leetcode: 1328
 '''
 class Solution(object):
     def breakPalindrome(self, palindrome):
-        """
-        :type palindrome: str
-        :rtype: str
-        """
+        
+        #:type palindrome: str
+        #:rtype: str
+        
         # Only contain 1 char value return empty to break the palindrome 
         if len(palindrome) < 2 :
             return ""
