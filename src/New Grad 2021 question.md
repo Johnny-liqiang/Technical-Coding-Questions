@@ -165,6 +165,7 @@ Subtree with Maximum Average
 Break a Palindrome leetcode: 1328
 
 '''
+
 class Solution(object):
     def breakPalindrome(self, palindrome):
         
@@ -184,9 +185,10 @@ class Solution(object):
         # for all 'a' case then break the last char into 'b'
         return palindrome[:len(palindrome)-1]+'b'
         
-    
 #space O(n)
 #time O(n)
+
+
 '''
 
 
