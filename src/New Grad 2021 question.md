@@ -10,7 +10,7 @@ leetcode 240 138 240 572
 
 substring with k distinct Character
 
-子树找平均最大，不是第二层找最大
+### 子树找平均最大，不是第二层找最大：leetcode 1120
 
 ## FAQ with LC numbers 
 
