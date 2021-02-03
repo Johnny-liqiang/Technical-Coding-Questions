@@ -130,7 +130,7 @@ Utilization Checks
 
 Top K Frequently Mentioned Keywords
 
-Transaction Logs
+### Transaction Logs
 
 Substrings of Size K with K-1 Distinct Chars
 
@@ -174,7 +174,7 @@ Fetch Items to Display
 
 Power Grid
 
-Count Teams
+### Count Teams
 
 ### Copy List with Random Pointer leetcode：138
 
