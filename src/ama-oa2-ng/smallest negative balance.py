@@ -3,7 +3,7 @@ def debtRecords(numCols: int, numRows: int, debts: List[List[str]]) -> List[str]
     default = "Nobody has a negative balance"
     accounts = {}
 
-     if not debts:
+    if not debts:
         return [default]
     
     for entry in debts:
@@ -23,3 +23,17 @@ def debtRecords(numCols: int, numRows: int, debts: List[List[str]]) -> List[str]
         return [entry[1] for entry in negative_accounts]
     else:
         return [default]
+    
+if __name__ == "__main__":
+    # driver code, do not modify
+    numCols = int(input())
+    numRows = int(input())
+    debts = [[str(x) for x in input().split()] for _ in range(numRows)]
+    
+    #print(debts)
+    
+    results= debtRecords(numCols,numRows,debts)
+    print(' '.join(x for x in results))
+    
+    
+
