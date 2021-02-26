@@ -10,8 +10,9 @@ struct SinglyListNode {
     SinglyListNode(int x) : val(x), next(NULL) {}
 };
 ```
-
-- Unlike an array, we don’t need to move all elements past the inserted element. Therefore, you can insert a new node into a linked list in O(1) time complexity
+- Unlike an array, we don’t need to move all elements past the inserted element. Therefore, you can insert a new node into a linked list in O(1) time complexity.
+- It is easy to find out next using the reference field of cur. However, we have to traverse the linked list from the head node to find out prev which will take O(N) time on average, where N is the length of the linked list. So the time complexity of deleting a node will be O(N).
+- The space complexity is O(1) because we only need constant space to store our pointers.
 
 
 
