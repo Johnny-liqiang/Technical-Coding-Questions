@@ -1,5 +1,5 @@
 # Linked List
-- LC206
+- LC206, 234, 160, 148, 142, 141, 23, 21, 19, 2
 - Unlike the array, we are not able to access a random element in a singly-linked list in constant time. 
 
 ```
